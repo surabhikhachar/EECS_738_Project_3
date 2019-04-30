@@ -1,4 +1,4 @@
-# EECS 738 Project 3: Hidden Markov Models
+# EECS 738 Project 3: Neural Networks
 
 This is Surabhi Khachar and Andre Kurait's third project for EECS 738, Machine Learning in Spring 2019. For project 3, we designed a neural network to test on two datasets from Kaggle. 
 
@@ -20,5 +20,8 @@ supporting files to the git repository in GitHub
 
 ## Data
 Data Chosen:
+- https://www.kaggle.com/uciml/iris (Iris Flower Species Dataset)
+-
 
-Data features headlines from 3 million articles
+## Neural Network
+For this project, we created a simple forward propagation/backpropagation neural network that has three layers. The three layers are the input, hidden, and output layer. The sigmoid function is the activation function used for the forward feeding as it worked well as a non-linear activation function for the dataset. The backpropagation allowed us to update the weights based on the error calculated on each epoch. 
