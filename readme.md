@@ -20,7 +20,7 @@ supporting files to the git repository in GitHub
 
 ## Data
 Data Chosen:
-- https://www.kaggle.com/uciml/iris (Iris Flower Species Dataset)
+- Iris Flower Species Dataset (https://www.kaggle.com/uciml/iris) 
 -
 
 ## Neural Network
