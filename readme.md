@@ -20,7 +20,7 @@ supporting files to the git repository in GitHub
 ## Data
 Data Chosen:
 - Iris Flower Species Dataset (https://www.kaggle.com/uciml/iris) 
-- Wine classification Dataset (https://www.kaggle.com/brynja/wineuci/downloads/wineuci.zip/1)
+- Wine classification Dataset (https://www.kaggle.com/brynja/wineuci)
 
 ## Neural Network
 For this project, we created a simple forward propagation/backpropagation neural network that has three layers. The three layers are the input, hidden, and output layer. The sigmoid function is the activation function used for the forward feeding as it worked well as a non-linear activation function for the dataset. The backpropagation allowed us to update the weights based on the error calculated on each epoch. 
